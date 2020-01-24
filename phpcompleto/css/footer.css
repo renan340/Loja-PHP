@@ -1,0 +1,21 @@
+h4{
+    color: white;
+    padding: 15px;
+}
+
+.redes ul li{
+    display: inline-block;
+}
+
+h6{
+    color: white;
+}
+
+.titulo{
+    padding: 45px;
+}
+
+.quemsomos ul li{
+    font-size: 1em;
+    color: white;
+}
